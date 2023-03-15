@@ -1,6 +1,8 @@
 :root {
   --primary: #97dcf0;
   --back: #010101;
+  --jack: #fff;
+  --kolk: red;
 }
 html {
   scroll-behavior: smooth;
